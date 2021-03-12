@@ -1,0 +1,134 @@
+[
+    {
+        "id":1,
+        "name":"Alejandro",
+        "username":"RET",
+        "email":"sincero@gmail.com",
+        "address":{
+            "street":"Kulas light",
+            "suite":"apt123",
+            "city":"Alejandria",
+            "zipcode":"9999-8888",
+            "geo":{
+                "lat":"-37777",
+                "lng":"81.5555"
+            }
+        
+        },
+        "phone":"1-7777-788-8 x5555",
+        "website":"hildera.org",
+        "company":{
+            "name":"Roma",
+            "catchPrase":"Client server",
+            "bs":"harness"
+        }
+
+    },
+    {
+        "id":2,
+        "name":"Martun",
+        "username":"mar",
+        "email":"honesto@gmail.com",
+        "address":{
+            "street":"Qualy ",
+            "suite":"jjjj",
+            "city":"martindria",
+            "zipcode":"7777-555",
+            "geo":{
+                "lat":"-314444",
+                "lng":"90.444"
+            }
+        
+        },
+        "phone":"5-222-38888-x44444",
+        "website":"martu.org",
+        "company":{
+            "name":"Grecia",
+            "catchPrase":"Client admin",
+            "bs":"aghata"
+        }
+
+    },
+    {
+
+        "id":3,
+        "name":"Tomas",
+        "username":"tom",
+        "email":"molesto@gmail.com",
+        "address":{
+            "street":"Night Mulas",
+            "suite":"mt 123",
+            "city":"Tomasdria",
+            "zipcode":"4444-123",
+            "geo":{
+                "lat":"-77779999",
+                "lng":"45.5555"
+            }
+        
+        },
+        "phone":"5-333-444-5x",
+        "website":"tomas.org",
+        "company":{
+            "name":"Egipto",
+            "catchPrase":"Client admin-server",
+            "bs":"vision"
+        }
+
+    },
+    {
+        "id":4,
+        "name":"Juliana",
+        "username":"jules",
+        "email":"amistosa@gmail.com",
+        "address":{
+            "street":"Amadeo stes",
+            "suite":"234atp",
+            "city":"Julandria",
+            "zipcode":"3333-3333",
+            "geo":{
+                "lat":"-39696",
+                "lng":"81.4444"
+            }
+        
+        },
+        "phone":"2-222-2222-x222",
+        "website":"juli.org",
+        "company":{
+            "name":"Italia",
+            "catchPrase":"server server",
+            "bs":"wanda"
+        }
+
+    },
+    {
+        "id":5,
+        "name":"Ian",
+        "username":"ian",
+        "email":"copado@gmail.com",
+        "address":{
+            "street":"la boca",
+            "suite":"loca1223",
+            "city":"Iandria",
+            "zipcode":"2322-8888",
+            "geo":{
+                "lat":"-31233",
+                "lng":"80.5555"
+            }
+        
+        },
+        "phone":"4-333-444-3333x",
+        "website":"ian.org",
+        "company":{
+            "name":"Francia",
+            "catchPrase":"Client server-server",
+            "bs":"hope"
+        }
+
+    }
+    
+    
+
+
+     
+    
+]
